@@ -1,0 +1,10 @@
+<map id="varIsArray" name="varIsArray">
+<area shape="rect" id="node3" href="$a00001.html#aaecea663190c6ce2edd146c3133f257d" title="check variable type andd process the value in right way" alt="" coords="133,164,219,193"/>
+<area shape="rect" id="node5" href="$a00001.html#a6826222eba46dd56dbd5841cdc300efa" title="dBug" alt="" coords="320,5,371,35"/>
+<area shape="rect" id="node8" href="$a00001.html#aaa52412f9f4f725e15aafa3fcd678b1d" title="shows information about curl easy handles" alt="" coords="268,59,423,88"/>
+<area shape="rect" id="node13" href="$a00001.html#a91a251e46645521ab0c05a9b787624f6" title="function used to render exceptions" alt="" coords="292,216,399,245"/>
+<area shape="rect" id="node17" href="$a00001.html#a443a941157b2ed03d6a24ae70ece785d" title="checks wheither variable is object of special type (using varIs*Object), and renders it if it is gene..." alt="" coords="652,280,737,309"/>
+<area shape="rect" id="node20" href="$a00001.html#a642e715a1977cf46d40d840b5112465d" title="if variable is an image/gd resource type" alt="" coords="284,112,407,141"/>
+<area shape="rect" id="node10" href="$a00001.html#a4ab1e15fa34f8b98071b0eb36883777e" title="shows info about different resources, uses customized rendering founctions when needed" alt="" coords="487,112,588,141"/>
+<area shape="rect" id="node15" href="$a00001.html#a783baa8ff544bb8278ac32bce66be5c4" title="varIsSpecialObject" alt="" coords="473,216,601,245"/>
+</map>

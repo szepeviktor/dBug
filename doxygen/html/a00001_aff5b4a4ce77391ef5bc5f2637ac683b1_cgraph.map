@@ -1,0 +1,7 @@
+<map id="varIsDBObject" name="varIsDBObject">
+<area shape="rect" id="node3" href="$a00001.html#ab4bab40a2bcac12276e3e7f2739f1761" title="renders database data" alt="" coords="159,32,260,61"/>
+<area shape="rect" id="node5" href="$a00001.html#a04aa495573c880043c46c3bfc669bbe3" title="creates the main table header" alt="" coords="311,32,436,61"/>
+<area shape="rect" id="node7" href="$a00001.html#a742973a203c412611192053dc0cd48af" title="initializeHeader" alt="" coords="496,5,605,35"/>
+<area shape="rect" id="node11" href="$a00001.html#a3396d3c6336b500d49e3a1a0288dc035" title="draws the main table header" alt="" coords="485,59,616,88"/>
+<area shape="rect" id="node9" href="$a00001.html#a20af85a4f4041ed681b095e1427b2a1d" title="getVariableName" alt="" coords="665,5,785,35"/>
+</map>

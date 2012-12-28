@@ -1,0 +1,11 @@
+<map id="varIsXml" name="varIsXml">
+<area shape="rect" id="node3" href="$a00001.html#a7538f8f3d434a3152a400f7478ae6454" title="if variable is an xml resource type" alt="" coords="124,139,247,168"/>
+<area shape="rect" id="node5" href="$a00001.html#a04aa495573c880043c46c3bfc669bbe3" title="creates the main table header" alt="" coords="297,32,423,61"/>
+<area shape="rect" id="node13" href="$a00001.html#a0cff4870612d64738cd84a47dbb36b1d" title="creates the table row header" alt="" coords="305,85,415,115"/>
+<area shape="rect" id="node15" href="$a00001.html#a3912b527e5334ca863364065cd1199a6" title="parses xml" alt="" coords="321,139,399,168"/>
+<area shape="rect" id="node17" href="$a00001.html#a545636ab6c62d4ba28f561d864d59a66" title="prints error" alt="" coords="336,192,384,221"/>
+<area shape="rect" id="node19" href="$a00001.html#aaa2a0a3c482abd677b2bc2fa137e6c91" title="closes table row" alt="" coords="313,245,407,275"/>
+<area shape="rect" id="node7" href="$a00001.html#a742973a203c412611192053dc0cd48af" title="initializeHeader" alt="" coords="483,5,592,35"/>
+<area shape="rect" id="node11" href="$a00001.html#a3396d3c6336b500d49e3a1a0288dc035" title="draws the main table header" alt="" coords="472,59,603,88"/>
+<area shape="rect" id="node9" href="$a00001.html#a20af85a4f4041ed681b095e1427b2a1d" title="getVariableName" alt="" coords="652,5,772,35"/>
+</map>

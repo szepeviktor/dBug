@@ -1,0 +1,9 @@
+<map id="varIsString" name="varIsString">
+<area shape="rect" id="node3" href="$a00001.html#aaa2a0a3c482abd677b2bc2fa137e6c91" title="closes table row" alt="" coords="157,5,251,35"/>
+<area shape="rect" id="node5" href="$a00001.html#a04aa495573c880043c46c3bfc669bbe3" title="creates the main table header" alt="" coords="141,59,267,88"/>
+<area shape="rect" id="node13" href="$a00001.html#a0cff4870612d64738cd84a47dbb36b1d" title="creates the table row header" alt="" coords="149,112,259,141"/>
+<area shape="rect" id="node15" href="$a00001.html#adbad9cee60e948aa3802a45be355a1f3" title="renders table of 2 cells in 1 row [type][value]" alt="" coords="137,165,271,195"/>
+<area shape="rect" id="node7" href="$a00001.html#a742973a203c412611192053dc0cd48af" title="initializeHeader" alt="" coords="331,139,440,168"/>
+<area shape="rect" id="node11" href="$a00001.html#a3396d3c6336b500d49e3a1a0288dc035" title="draws the main table header" alt="" coords="320,59,451,88"/>
+<area shape="rect" id="node9" href="$a00001.html#a20af85a4f4041ed681b095e1427b2a1d" title="getVariableName" alt="" coords="500,139,620,168"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="initializeHeader" name="initializeHeader">
+<area shape="rect" id="node3" href="$a00001.html#a04aa495573c880043c46c3bfc669bbe3" title="creates the main table header" alt="" coords="171,371,296,400"/>
+<area shape="rect" id="node47" href="$a00001.html#adbad9cee60e948aa3802a45be355a1f3" title="renders table of 2 cells in 1 row [type][value]" alt="" coords="167,85,300,115"/>
+<area shape="rect" id="node5" href="$a00001.html#acd3532d31c3c50577b2abd56624b3757" title="renders NULL as red&#45;pink rectangle" alt="" coords="361,292,441,321"/>
+<area shape="rect" id="node11" href="$a00001.html#a86ff35452ee612d9e9e9b147e5544acc" title="varIsArray" alt="" coords="712,139,789,168"/>
+<area shape="rect" id="node14" href="$a00001.html#aaa52412f9f4f725e15aafa3fcd678b1d" title="shows information about curl easy handles" alt="" coords="673,424,828,453"/>
+<area shape="rect" id="node16" href="$a00001.html#a4ab1e15fa34f8b98071b0eb36883777e" title="shows info about different resources, uses customized rendering founctions when needed" alt="" coords="892,424,993,453"/>
+<area shape="rect" id="node19" href="$a00001.html#a91a251e46645521ab0c05a9b787624f6" title="function used to render exceptions" alt="" coords="697,579,804,608"/>
+<area shape="rect" id="node23" href="$a00001.html#a443a941157b2ed03d6a24ae70ece785d" title="checks wheither variable is object of special type (using varIs*Object), and renders it if it is gene..." alt="" coords="1057,203,1143,232"/>
+<area shape="rect" id="node26" href="$a00001.html#a642e715a1977cf46d40d840b5112465d" title="if variable is an image/gd resource type" alt="" coords="689,371,812,400"/>
+<area shape="rect" id="node30" href="$a00001.html#a1dce801bff273c92008ec238b5480928" title="renders string either as primitive type (if it is short (less than $embeddedStringMaxLength chars) an..." alt="" coords="360,112,443,141"/>
+<area shape="rect" id="node38" href="$a00001.html#ab4bab40a2bcac12276e3e7f2739f1761" title="renders database data" alt="" coords="351,631,452,660"/>
+<area shape="rect" id="node43" href="$a00001.html#a14955ad355cef1e5d7898fb57023c999" title="renders database resource (fetch result) into table or ... smth else" alt="" coords="503,527,623,556"/>
+<area shape="rect" id="node7" href="$a00001.html#aaecea663190c6ce2edd146c3133f257d" title="check variable type andd process the value in right way" alt="" coords="520,267,605,296"/>
+<area shape="rect" id="node9" href="$a00001.html#a6826222eba46dd56dbd5841cdc300efa" title="dBug" alt="" coords="725,267,776,296"/>
+<area shape="rect" id="node21" href="$a00001.html#a783baa8ff544bb8278ac32bce66be5c4" title="varIsSpecialObject" alt="" coords="879,579,1007,608"/>
+<area shape="rect" id="node40" href="$a00001.html#aff5b4a4ce77391ef5bc5f2637ac683b1" title="renders either PDO or SQLite3 statement objects" alt="" coords="511,631,615,660"/>
+<area shape="rect" id="node49" href="$a00001.html#a44eb38e42426f01840a0d12fe6a6a05f" title="renders numeric types : integers and doubles" alt="" coords="353,5,449,35"/>
+<area shape="rect" id="node53" href="$a00001.html#a5ebd24b62872515b28e27182857bfe7f" title="renders boolean variable" alt="" coords="355,59,448,88"/>
+</map>

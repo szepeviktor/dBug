@@ -1,0 +1,10 @@
+<map id="varIsGDResource" name="varIsGDResource">
+<area shape="rect" id="node3" href="$a00001.html#a4ab1e15fa34f8b98071b0eb36883777e" title="shows info about different resources, uses customized rendering founctions when needed" alt="" coords="177,196,279,225"/>
+<area shape="rect" id="node5" href="$a00001.html#aaecea663190c6ce2edd146c3133f257d" title="check variable type andd process the value in right way" alt="" coords="328,144,413,173"/>
+<area shape="rect" id="node7" href="$a00001.html#a6826222eba46dd56dbd5841cdc300efa" title="dBug" alt="" coords="515,5,565,35"/>
+<area shape="rect" id="node9" href="$a00001.html#a86ff35452ee612d9e9e9b147e5544acc" title="varIsArray" alt="" coords="501,59,579,88"/>
+<area shape="rect" id="node12" href="$a00001.html#aaa52412f9f4f725e15aafa3fcd678b1d" title="shows information about curl easy handles" alt="" coords="463,240,617,269"/>
+<area shape="rect" id="node15" href="$a00001.html#a91a251e46645521ab0c05a9b787624f6" title="function used to render exceptions" alt="" coords="487,112,593,141"/>
+<area shape="rect" id="node19" href="$a00001.html#a443a941157b2ed03d6a24ae70ece785d" title="checks wheither variable is object of special type (using varIs*Object), and renders it if it is gene..." alt="" coords="847,176,932,205"/>
+<area shape="rect" id="node17" href="$a00001.html#a783baa8ff544bb8278ac32bce66be5c4" title="varIsSpecialObject" alt="" coords="668,112,796,141"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="error" name="error">
+<area shape="rect" id="node3" href="$a00001.html#a7538f8f3d434a3152a400f7478ae6454" title="if variable is an xml resource type" alt="" coords="103,192,225,221"/>
+<area shape="rect" id="node5" href="$a00001.html#a4ab1e15fa34f8b98071b0eb36883777e" title="shows info about different resources, uses customized rendering founctions when needed" alt="" coords="276,165,377,195"/>
+<area shape="rect" id="node23" href="$a00001.html#aae74585f47656ea965da93f30991825e" title="if variable is an xml type remember, that you must force type to xml to use this" alt="" coords="292,219,361,248"/>
+<area shape="rect" id="node7" href="$a00001.html#aaecea663190c6ce2edd146c3133f257d" title="check variable type andd process the value in right way" alt="" coords="427,112,512,141"/>
+<area shape="rect" id="node9" href="$a00001.html#a6826222eba46dd56dbd5841cdc300efa" title="dBug" alt="" coords="613,5,664,35"/>
+<area shape="rect" id="node11" href="$a00001.html#a86ff35452ee612d9e9e9b147e5544acc" title="varIsArray" alt="" coords="600,59,677,88"/>
+<area shape="rect" id="node14" href="$a00001.html#aaa52412f9f4f725e15aafa3fcd678b1d" title="shows information about curl easy handles" alt="" coords="561,165,716,195"/>
+<area shape="rect" id="node17" href="$a00001.html#a642e715a1977cf46d40d840b5112465d" title="if variable is an image/gd resource type" alt="" coords="577,219,700,248"/>
+<area shape="rect" id="node20" href="$a00001.html#a443a941157b2ed03d6a24ae70ece785d" title="checks wheither variable is object of special type (using varIs*Object), and renders it if it is gene..." alt="" coords="596,112,681,141"/>
+</map>

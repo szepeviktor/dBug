@@ -54,7 +54,7 @@ class dBug
 			define('BDBUGINIT', TRUE);
 			self::initJSandCSS();
 		}
-		$arrAccept=array("array",'object',"xml"); //array of variable types that can be "forced"
+		$arrAccept=array("array", "object", "xml"); //array of variable types that can be "forced"
 		$this->bCollapsed = $bCollapsed;
 		if(in_array($forceType,$arrAccept))
 			$this->{"varIs".ucfirst($forceType)}($var);
